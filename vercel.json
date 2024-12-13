@@ -9,7 +9,7 @@
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "api/qr.js"
+      "dest": "api/generate-qris.js"
     }
   ]
 }
